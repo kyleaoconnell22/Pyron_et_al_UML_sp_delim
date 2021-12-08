@@ -1,3 +1,3 @@
 This will be the repo for code from Pyron et al 2021. 'The locus of identity for phylogeographic species delimitation and integrative taxonomy in Seal Salamanders (Desmognathus monticola)'
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kyleaoconnell22/Pyron_et_al_UML_sp_delim/main?labpath=uml_sp_delim.ipynb)
+We are working on developing a few notebooks with key analyses from the paper, but for now, you can try out our new species delimitation method using deep learning by either downloading the notebook in this repo called uml_sp_delim.ipynb or by clicking on `launch binder` and you can run the notebook on a few cloud instance via your web browser. [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kyleaoconnell22/Pyron_et_al_UML_sp_delim/main?labpath=uml_sp_delim.ipynb)
